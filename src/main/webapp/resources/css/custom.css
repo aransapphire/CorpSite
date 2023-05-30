@@ -2,3 +2,8 @@
 header {
   background: red;
 }
+
+footer {
+  margin: 10px;
+  background: red;
+}
