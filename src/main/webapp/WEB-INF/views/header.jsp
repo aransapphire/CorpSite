@@ -57,6 +57,9 @@
                                         </li>
                                     </ul>
                                 </li>
+                                <li>
+                                    <a href="/">My Account</a>
+                                </li>
                             </ul>
                         </div>
                     </div>
